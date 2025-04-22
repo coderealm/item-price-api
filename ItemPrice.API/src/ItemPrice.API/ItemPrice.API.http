@@ -1,0 +1,6 @@
+@ItemPrice.API_HostAddress = http://localhost:5198
+
+GET {{ItemPrice.API_HostAddress}}/item/prices
+Accept: application/json
+
+###
