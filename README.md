@@ -31,6 +31,7 @@ dotnet restore && dotnet run
 - Add authentication and authorisation
 - Add unit and integration tests
 - Use configurations from appsettings.json
+- Clean up the code
 - Remove hardcoded URL
 - Use a database, e.g, SQL Server for the data source
 - Use Domain Driven Design
