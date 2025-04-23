@@ -25,3 +25,12 @@ cd ItemPrice.API\src\ItemPrice.API
 
 dotnet restore && dotnet run
 ```
+
+## Improvements required
+
+- Add authentication and authorisation
+- Add unit and integration tests
+- Use configurations from appsettings.json
+- Remove hardcoded URL
+- Use a database, e.g, SQL Server for the data source
+- Use Domain Driven Design
