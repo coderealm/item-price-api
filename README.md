@@ -34,3 +34,7 @@ dotnet restore && dotnet run
 - Remove hardcoded URL
 - Use a database, e.g, SQL Server for the data source
 - Use Domain Driven Design
+- Add exception handling
+- Implement Serilog for logging exceptions
+- Add validations, e.g. fail fast
+- For production - design to include monitoring and alerting
